@@ -1,2 +1,2 @@
-# hello-deploy
-Projeto para aprender deploy para diferentes tipos de server
+# hello-deploy-vercel
+Projeto para aprender deploy para vercel
