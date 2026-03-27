@@ -1,0 +1,25 @@
+{
+  "name": "hello-deploy",
+  "version": "1.0.0",
+  "description": "Projeto para aprender deploy para diferentes tipos de server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorlucasz/hello-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/igorlucasz/hello-deploy/issues"
+  },
+  "homepage": "https://github.com/igorlucasz/hello-deploy#readme",
+  "dependencies": {
+    "fastify": "^5.8.4"
+  }
+}
